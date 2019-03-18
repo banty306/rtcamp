@@ -10,7 +10,7 @@
 
     /**
     * @category PHP
-    * @author "Aquib Chiniwala"
+    
     *
     */
     class Model {
